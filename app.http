@@ -1,0 +1,27 @@
+
+
+//API 1
+GET http://localhost:3000/movies/47
+
+//API 2
+POST http://localhost:3000/movies/
+
+
+//API 3
+GET http://localhost:3000/movies/47
+
+//API 4
+PUT http://localhost:3000/movies/:movieId
+
+//API 5
+DELETE http://localhost:3000/movies/:1/
+
+//API 6
+GET http://localhost:3000/directors/
+
+//API 7
+GET http://localhost:3000/directors/:directorId/movies/
+
+
+
+
