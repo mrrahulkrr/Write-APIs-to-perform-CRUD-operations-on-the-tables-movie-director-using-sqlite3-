@@ -2,7 +2,7 @@
 
 Given two files `app.js` and a database file `moviesData.db` consisting of two tables `movie` and `director`.
 
-Write APIs to perform CRUD operations on the tables `movie`, `director` containing the following columns,
+Written APIs to perform CRUD operations on the tables `movie`, `director` containing the following columns,
 
 **Movie Table**
 
@@ -179,8 +179,6 @@ Returns a list of all movie names directed by a specific director
 
 <br/>
 
-Use `npm install` to install the packages.
-
 **Export the express instance using the default export syntax.**
 
-**Use Common JS module syntax.**
+**Used Common JS module syntax.**
