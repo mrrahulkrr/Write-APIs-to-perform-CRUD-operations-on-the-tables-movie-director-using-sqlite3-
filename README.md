@@ -1,6 +1,6 @@
 # Movies
 
-Given two files `app.js` and a database file `moviesData.db` consisting of two tables `movie` and `director`.
+Given two files `app.js` and a database file `moviesData.db` consisting two tables `movie` and `director`.
 
 Written APIs to perform CRUD operations on the tables `movie`, `director` containing the following columns,
 
